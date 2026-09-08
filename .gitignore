@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ── Credit card fraud dataset (never commit) ─────────────────
+*.csv
+*.zip
+data/
+input/
+kaggle/
